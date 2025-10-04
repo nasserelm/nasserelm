@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there 👋, I'm Nasser Mughrabi
 
-<!--
-**NasserMughrabi/NasserMughrabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer @ TELLUS**  
+📍 Salt Lake City Metropolitan Area  
+🌐 [www.nassermughrabi.com](http://www.nassermughrabi.com) | [LinkedIn](https://www.linkedin.com/in/nasser258) | 📫 mughrabi.nasser@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+Software Engineer specializing in backend systems, distributed architecture, and cloud infrastructure. 
+Experienced in building scalable APIs and microservices that improve performance, reliability, and developer productivity.
+
+Currently working at **TELLUS**, where I contribute to air quality monitoring systems that make an environmental impact.
+
+---
+
+### 🧠 What I Do
+
+- 🔭 **Backend Development:** Python, FastAPI, PostgreSQL, Firestore
+- 🏗️ **Frontend:** TypeScript, React, Next.js
+- ☁️ **Cloud & DevOps:** AWS, GCP, Docker, CI/CD pipelines  
+- 🧩 **Architecture:** Systems Design, API Development, Cloud Infrastructure  
+- 📈 **Focus Areas:** Clean code, performance optimization, scalable systems  
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Technologies |
+|-----------|---------------|
+| **Languages** | Python, TypeScript, JavaScript, SQL, NoSQL |
+| **Frameworks** | FastAPI, React, Next.js, Node.js |
+| **Databases** | PostgreSQL, Firestore |
+| **Cloud & DevOps** | AWS, GCP, Docker, CI/CD |
+| **Other Skills** | Solution Architecture, System Design, Git, REST APIs |
+
+---
+
+### 🏆 Certifications & Honors
+
+- **AWS Certified Cloud Practitioner** ☁️  
+
+---
+
+### 🌱 Currently Exploring
+- Advanced cloud architecture patterns  
+- AI-driven system design  
+- Developer experience automation tools  
+
+---
+
+### ⚡ Fun Fact
+When I’m not coding, you’ll probably find me exploring the outdoors, diving into tech blogs, creating content, or building side projects to test new ideas.
+
+---
+
+⭐️ _“Code with clarity. Build with purpose.”_  
