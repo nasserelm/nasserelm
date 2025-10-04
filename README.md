@@ -1,11 +1,5 @@
 # Hi there 👋, I'm Nasser Mughrabi
 
-💻 **Software Engineer @ TELLUS**  
-📍 Salt Lake City Metropolitan Area  
-🌐 [www.nassermughrabi.com](http://www.nassermughrabi.com) | [LinkedIn](https://www.linkedin.com/in/nasser258) | 📫 mughrabi.nasser@gmail.com  
-
----
-
 ### 🚀 About Me
 Software Engineer specializing in backend systems, distributed architecture, and cloud infrastructure. 
 Experienced in building scalable APIs and microservices that improve performance, reliability, and developer productivity.
