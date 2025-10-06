@@ -14,7 +14,6 @@ Currently working at **TELLUS**, where I contribute to air quality monitoring sy
 - 🏗️ **Frontend:** TypeScript, React, Next.js
 - ☁️ **Cloud & DevOps:** AWS, GCP, Docker, CI/CD pipelines  
 - 🧩 **Architecture:** Systems Design, API Development, Cloud Infrastructure  
-- 📈 **Focus Areas:** Clean code, performance optimization, scalable systems  
 
 ---
 
@@ -22,11 +21,10 @@ Currently working at **TELLUS**, where I contribute to air quality monitoring sy
 
 | Category | Technologies |
 |-----------|---------------|
-| **Languages** | Python, TypeScript, JavaScript, SQL, NoSQL |
-| **Frameworks** | FastAPI, React, Next.js, Node.js |
+| **Languages** | Python, Java, TypeScript, SQL, NoSQL |
+| **Frameworks** | FastAPI, SpringBoot, React, Next.js |
 | **Databases** | PostgreSQL, Firestore |
-| **Cloud & DevOps** | AWS, GCP, Docker, CI/CD |
-| **Other Skills** | Solution Architecture, System Design, Git, REST APIs |
+| **Cloud & DevOps** | AWS, GCP, Docker, CI/CD
 
 ---
 
@@ -37,8 +35,8 @@ Currently working at **TELLUS**, where I contribute to air quality monitoring sy
 ---
 
 ### 🌱 Currently Exploring
-- Advanced cloud architecture patterns  
-- AI-driven system design  
+- OpenAI Agents SDK & LLMs capabilities
+- AI-driven system design
 - Developer experience automation tools  
 
 ---
