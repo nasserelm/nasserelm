@@ -10,7 +10,7 @@ Currently working at **TELLUS**, where I contribute to air quality monitoring sy
 
 ### 🧠 What I Do
 
-- 🔭 **Backend Development:** Python, FastAPI, PostgreSQL, Firestore
+- 🔭 **Backend Development:** Python, FastAPI, Java, SpringBoot, PostgreSQL, Firestore
 - 🏗️ **Frontend:** TypeScript, React, Next.js
 - ☁️ **Cloud & DevOps:** AWS, GCP, Docker, CI/CD pipelines  
 - 🧩 **Architecture:** Systems Design, API Development, Cloud Infrastructure  
