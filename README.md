@@ -4,6 +4,8 @@
 Software Engineer specializing in backend systems, distributed architecture, and cloud infrastructure. 
 Experienced in building scalable APIs and microservices that improve performance, reliability, and developer productivity.
 
+Passionate about designing low-latency, highly available distributed systems serving millions of users.
+
 Currently working at **TELLUS**, where I contribute to air quality monitoring systems that make an environmental impact.
 
 ---
