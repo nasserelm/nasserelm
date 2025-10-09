@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Nasser Mughrabi
 
 ### 🚀 About Me
-Software Engineer specializing in backend systems, distributed architecture, and cloud infrastructure. 
-Experienced in building scalable APIs and microservices that improve performance, reliability, and developer productivity.
+Software Engineer specializing in backend systems, APIs, distributed systems, and cloud infrastructure.
+Experienced in building scalable APIs and microservices that improve performance and reliability.
 
 Passionate about designing low-latency, highly available distributed systems serving millions of users.
 
@@ -45,7 +45,3 @@ Currently working at **TELLUS**, where I contribute to air quality monitoring sy
 
 ### ⚡ Fun Fact
 When I’m not coding, you’ll probably find me exploring the outdoors, diving into tech blogs, creating content, or building side projects to test new ideas.
-
----
-
-⭐️ _“Code with clarity. Build with purpose.”_  
