@@ -1,10 +1,13 @@
 # Hi there 👋, I'm Nasser Mughrabi
 
 ### 🚀 About Me
-Software Engineer specializing in backend systems, APIs, distributed systems, and cloud infrastructure.
-Experienced in building scalable APIs and microservices that improve performance and reliability.
+Software Engineer with 2+ years of experience designing and optimizing scalable APIs, microservices, and data pipelines in Python, FastAPI, and SQL. Proven success in launching multiple APIs and microservices. Skilled in distributed systems, cloud infrastructure (AWS/GCP), and data-driven feature development.
+
+Skilled in Python(FastAPI), Java(Spring Boot), TypeScript(React/Next.js), PostgreSQL, Redis, AWS, GCP, Docker, and CI/CD pipelines, with strong foundations in algorithms, data structures, and system design.
 
 Passionate about designing low-latency, highly available distributed systems serving millions of users.
+
+Thrive on tackling complex engineering challenges, designing scalable solutions, and collaborating across teams to deliver high-impact results.
 
 Currently working at **TELLUS**, where I contribute to air quality monitoring systems that make an environmental impact.
 
