@@ -3,7 +3,7 @@
 ### 🚀 About Me
 Software Engineer with 2+ years of experience designing and optimizing scalable APIs, microservices, and data pipelines in Python, FastAPI, and SQL. Proven success in launching multiple APIs and microservices. Skilled in distributed systems, cloud infrastructure (AWS/GCP), and data-driven feature development.
 
-Skilled in Python(FastAPI), Java(Spring Boot), TypeScript(React/Next.js), PostgreSQL, Redis, AWS, GCP, Docker, and CI/CD pipelines, with strong foundations in algorithms, data structures, and system design.
+Technical expertise spans Python(FastAPI), Java(Spring Boot), TypeScript(React/Next.js), PostgreSQL, Redis, AWS, GCP, Docker, and CI/CD pipelines, with strong foundations in algorithms, data structures, and system design.
 
 Passionate about designing low-latency, highly available distributed systems serving millions of users.
 
