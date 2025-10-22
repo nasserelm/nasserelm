@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nasser Mughrabi
+# Hi there 👋, I'm Nasser Elmughrabi
 
 ### 🚀 About Me
 Software Engineer with 2+ years of experience designing and optimizing scalable APIs, microservices, and data pipelines in Python, FastAPI, and SQL. Proven success in launching multiple APIs and microservices. Skilled in distributed systems, cloud infrastructure (AWS/GCP), and data-driven feature development.
