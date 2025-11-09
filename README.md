@@ -6,9 +6,8 @@ Software Engineer with 2+ years of experience designing and optimizing scalable 
 ---
 
 ### 🌱 Currently Exploring
-- Agents SDK & LLMs capabilities
-- Advanced Distributed Systems
-
+- Agents, LLMs, and intelligent system design
+- Distributed systems and cloud architecture
 
 ---
 
