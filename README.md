@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nasser Elmughrabi
+# Hi there 👋, I'm Nasser
 
 ### 🚀 About Me
 Software Engineer with 2+ years of experience designing and optimizing scalable APIs, microservices, and data pipelines. Skilled in distributed systems, cloud infrastructure (AWS/GCP), and data-driven feature development.
