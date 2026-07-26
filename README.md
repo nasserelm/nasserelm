@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Nasser
 
 ### 🚀 About Me
-Software Engineer with experience in backend development, data infrastructure, and distributed systems.
+Software Engineer with experience in full-stack development, data infrastructure, and distributed systems.
 
 ---
 
